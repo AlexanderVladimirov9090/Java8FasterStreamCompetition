@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+#Idea`s Build files.
+
+/build/
+/.idea/
+
+#Gradle files.
+/.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+
+
